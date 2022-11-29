@@ -1,0 +1,19 @@
+.movieCard{
+    list-style: none;
+    font-size: 1.5rem;
+}
+
+.movieImage{
+    border-radius: 10px;
+    background: azure;
+}
+
+.groupCard{
+    list-style: none;
+    font-size: 1.0rem;
+}
+
+.groupImage{
+    border-radius: 100px;
+    background: azure;
+}

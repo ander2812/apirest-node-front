@@ -1,0 +1,13 @@
+.catchPokemon{
+
+    position: absolute;
+    color: #ee4917;
+    right: 0;
+    top: 0;
+    cursor: pointer;
+    height: 100%;
+
+    border: none;
+    background: none;
+
+}

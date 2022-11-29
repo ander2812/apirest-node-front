@@ -1,0 +1,16 @@
+.movieDetails{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.col{
+    max-width: 400px;
+    width: 80%;
+    margin: 15px;
+}
+
+.movieImage{
+    border-radius: 15px;
+}
